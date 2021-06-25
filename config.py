@@ -1,0 +1,3 @@
+token = "1874617851:AAHEGG6iXqelOJH_oLC5bYBL-DTJUJxO17s"
+admin_id = 436322866
+channel_id = -1001493672853
